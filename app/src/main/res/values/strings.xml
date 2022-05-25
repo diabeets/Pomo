@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Pomo</string>
+    <string name="pomodoroLabel">Pomodoro</string>
+    <string name="studyTimeLabel">Study Timer: </string>
+    <string name="breakTimeLabel">Break Timer: </string>
+    <string name="startButtonText">START</string>
+    <string name="zeroMinutes">0 Minutes</string>
+    <string name="title_activity_event">EventActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="goBackLabel">Go Back</string>
+    <string name="pauseLabel">Pause</string>
+    <string name="studyLabel">STUDY</string>
+    <string name="temp">temp</string>
+    <string name="startStudyingLabel">Start Studying</string>
+</resources>
